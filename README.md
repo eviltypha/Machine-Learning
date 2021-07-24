@@ -1,2 +1,2 @@
 # Machine-Learning
-A collection of algorithms
+Anything and everything related to ML comes here
